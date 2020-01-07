@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{03FAA7A8-B2DC-D03A-E292-493AC1718BEB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SimpleCameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SimpleCameraController.cs" Line="25" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="The Darkest night" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SimpleCameraController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7217aefb-014f-49ba-b35e-ae052bd06efe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

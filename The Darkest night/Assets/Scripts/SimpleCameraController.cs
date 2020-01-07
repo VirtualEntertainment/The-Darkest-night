@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using UnityEditorInternal;
+using UnityEngine;
 
 namespace UnityTemplateProjects
 {
@@ -21,6 +22,7 @@ namespace UnityTemplateProjects
                 x = t.position.x;
                 y = t.position.y;
                 z = t.position.z;
+               
             }
 
             public void Translate(Vector3 translation)
