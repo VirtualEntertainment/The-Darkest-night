@@ -1,25 +1,15 @@
 ﻿<Properties StartupConfiguration="{03FAA7A8-B2DC-D03A-E292-493AC1718BEB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/controler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.cinemachine@2.4.0/Runtime/PostProcessing/CinemachineVolumeSettings.cs">
     <Files>
       <File FileName="Assets/Scripts/SimpleCameraController.cs" Line="25" Column="16" />
-      <File FileName="Assets/controler.cs" Line="8" Column="31" />
+      <File FileName="Assets/controler.cs" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@7.1.5/Editor/UniversalRenderPipelineCameraEditor.cs" Line="9" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.cinemachine@2.4.0/Runtime/PostProcessing/CinemachineVolumeSettings.cs" Line="228" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="The Darkest night" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True" />
-              <Node name="controler.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e2c10a08-4460-4029-8f4b-ec5387f92c83" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4cc7140-d96f-4423-b233-4ca4e1d9d239" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
